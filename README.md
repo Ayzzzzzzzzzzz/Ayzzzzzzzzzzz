@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayzzzzzzzzzzz
+- 👋 Hi, I’m Ayz
 - 👀 I’m interested in developing Tweaks
 - 🌱 I’m currently learning C
 - 📫 How to reach me Instagram or X
