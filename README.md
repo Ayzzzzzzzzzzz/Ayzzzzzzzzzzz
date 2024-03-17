@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Ayz
-- 👀 I’m interested in developing Tweaks
-- 🌱 I’m currently learning Objective C
-- 📫 How to reach me Instagram or X
+-------------------------------------------------------------------------------------------------------
+#Ayz#
 
 
 
